@@ -1,0 +1,2 @@
+[tools]
+aws = { version = "2.38.0", symlink_bins = "true" }
